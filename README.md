@@ -54,5 +54,6 @@ returns true/false to indicate how the server works
 - Lint Tests: `npm run lint`
 
 #### UML
+<!-- Link to an image of the UML for your application and response to events -->
+![UML Diagram](diagramm.png)
 
-Link to an image of the UML for your application and response to events
